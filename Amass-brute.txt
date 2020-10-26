@@ -1,0 +1,274 @@
+khanh@kali:~/go/bin$ amass enum -brute -d zomato.com -src
+
+Querying ThreatMiner for zomato.com subdomains
+
+[ArchiveIt]       developers.zomato.com
+
+[ArchiveIt]       jumbo.zomato.com
+
+[ArchiveIt]       community.zomato.com
+
+[Crtsh]           techblog.zomato.com
+
+[ArchiveIt]       zwstatic.zomato.com
+
+[ArchiveIt]       blog.zomato.com
+
+[ArchiveIt]       www.zomato.com
+
+[Wayback]         culture.zomato.com
+
+[Crtsh]           www.techblog.zomato.com
+
+[Wayback]         business-blog.zomato.com
+
+Querying BuiltWith for zomato.com subdomains
+
+Querying HackerTarget for zomato.com subdomains
+
+Average DNS queries performed: 1576/sec, Average retries required: 49.30%
+
+[Brute Forcing]   mobile.zomato.com
+
+[Alterations]     1api.zomato.com
+
+[Alterations]     api-staging.zomato.com
+
+[Alterations]     m.zomato.com
+
+[Wayback]         accounts.zomato.com
+
+[Brute Forcing]   cc.zomato.com
+
+[Wayback]         engineering.zomato.com
+
+[ThreatCrowd]     pwa.zomato.com
+
+[Alterations]     trackemail.zomato.com
+
+[ThreatCrowd]     zpay.zomato.com
+
+[Alterations]     ccc.zomato.com
+
+[RapidDNS]        track.zomato.com
+
+[ThreatCrowd]     cupcake.zomato.com
+
+[Brute Forcing]   maps.zomato.com
+
+[AlienVault]      business.zomato.com
+
+[Alterations]     cc2.zomato.com
+
+[Alterations]     auth2.zomato.com
+
+[AlienVault]      send.zomato.com
+
+[BufferOver]      api.zomato.com
+
+[Brute Forcing]   link.zomato.com
+
+[HackerOne]       book.zomato.com
+
+[CertSpotter]     success.zomato.com
+
+[RapidDNS]        trackemail2.zomato.com
+
+[ThreatCrowd]     hyperlocal.zomato.com
+
+[RapidDNS]        reviews.zomato.com
+
+[CertSpotter]     www.success.zomato.com
+
+[Alterations]     zpay1.zomato.com
+
+[Bing]            secretx.zomato.com
+
+[Alterations]     payments-test.zomato.com
+
+[ThreatCrowd]     ws-callcenter.zomato.com
+
+Querying Crtsh for zomato.com subdomains
+
+Querying UKGovArchive for zomato.com subdomains
+
+[DNSDumpster]     o4.sg1.zomato.com
+
+[DNSDumpster]     o9.mailers.zomato.com
+
+[DNSDumpster]     o6.mailers.zomato.com
+
+[DNSDumpster]     o8.mailers.zomato.com
+
+[DNSDumpster]     o10.mailers.zomato.com
+
+[DNSDumpster]     o7.mailers.zomato.com
+
+[DNSDumpster]     o1.email.zomato.com
+
+[Alterations]     apimail.zomato.com
+
+[VirusTotal]      fddkim.zomato.com
+
+[Alterations]     maps2.zomato.com
+
+[ThreatCrowd]     hedwig.zomato.com
+
+[Alterations]     novdevelopers.zomato.com
+
+[Brute Forcing]   mail.zomato.com
+
+[DNSDumpster]     o11.et.zomato.com
+
+Querying GoogleCT for zomato.com subdomains
+
+Average DNS queries performed: 1917/sec, Average retries required: 45.38%
+
+Querying BufferOver for zomato.com subdomains
+
+[RapidDNS]        winecellar.zomato.com
+
+Querying HackerOne for zomato.com subdomains
+
+Average DNS queries performed: 1793/sec, Average retries required: 45.90%
+
+Querying Robtex for zomato.com subdomains
+
+Querying Censys for zomato.com subdomains
+
+Average DNS queries performed: 1852/sec, Average retries required: 45.73%
+
+Querying CertSpotter for zomato.com subdomains
+
+Querying Ask for zomato.com subdomains
+
+Querying RapidDNS for zomato.com subdomains
+
+Average DNS queries performed: 1795/sec, Average retries required: 45.40%
+
+Querying Sublist3rAPI for zomato.com subdomains
+
+Querying DNSDumpster for zomato.com subdomains
+
+Querying Wayback for zomato.com subdomains
+
+Querying Yahoo for zomato.com subdomains
+
+Querying ViewDNS for zomato.com subdomains
+
+Average DNS queries performed: 1686/sec, Average retries required: 47.92%
+
+Querying AlienVault for zomato.com subdomains
+
+Querying Bing for zomato.com subdomains
+
+Querying Baidu for zomato.com subdomains
+
+Querying ThreatCrowd for zomato.com subdomains
+
+Querying Riddler for zomato.com subdomains
+
+Querying Pastebin for zomato.com subdomains
+
+Querying ArchiveIt for zomato.com subdomains
+
+Querying Mnemonic for zomato.com subdomains
+
+Average DNS queries performed: 299/sec, Average retries required: 32.78%
+
+Querying VirusTotal for zomato.com subdomains
+
+Querying LoCArchive for zomato.com subdomains
+
+Querying Brute Forcing for zomato.com subdomains
+
+Querying URLScan for zomato.com subdomains
+
+Querying SiteDossier for zomato.com subdomains
+
+Average DNS queries performed: 690/sec, Average retries required: 16.81%
+
+Average DNS queries performed: 682/sec, Average retries required: 14.96%
+
+Average DNS queries performed: 307/sec, Average retries required: 13.68%
+
+Average DNS queries performed: 13/sec, Average retries required: 15.38%
+
+Average DNS queries performed: 0/sec, Average retries required: 0.00%
+
+Average DNS queries performed: 0/sec, Average retries required: 0.00%
+
+Average DNS queries performed: 0/sec, Average retries required: 0.00%
+
+Average DNS queries performed: 86/sec, Average retries required: 12.79%
+
+Average DNS queries performed: 148/sec, Average retries required: 13.51%
+
+
+
+OWASP Amass v3.10.5                               https://github.com/OWASP/Amass
+
+--------------------------------------------------------------------------------
+
+55 names discovered - api: 10, scrape: 14, archive: 10, cert: 4, brute: 5, alt: 12
+
+--------------------------------------------------------------------------------
+
+ASN: 2635 - AUTOMATTIC - Automattic, Inc
+
+	74.114.152.0/22   	2    Subdomain Name(s)
+
+	192.0.64.0/18     	10   Subdomain Name(s)
+
+ASN: 11377 - SENDGRID - SendGrid, Inc.
+
+	167.89.0.0/18     	7    Subdomain Name(s)
+
+	198.21.0.0/21     	1    Subdomain Name(s)
+
+	167.89.114.0/23   	6    Subdomain Name(s)
+
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc.
+
+	52.200.0.0/13     	1    Subdomain Name(s)
+
+ASN: 15169 - GOOGLE - Google LLC
+
+	64.233.160.0/19   	1    Subdomain Name(s)
+
+ASN: 20940 - AKAMAI-ASN1
+
+	23.219.172.0/22   	2    Subdomain Name(s)
+
+ASN: 16625 - AKAMAI-AS - Akamai Technologies, Inc.
+
+	184.30.160.0/19   	30   Subdomain Name(s)
+
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc.
+
+	52.74.0.0/15      	2    Subdomain Name(s)
+
+	3.0.0.0/15        	4    Subdomain Name(s)
+
+	52.208.0.0/13     	1    Subdomain Name(s)
+
+	18.138.0.0/15     	2    Subdomain Name(s)
+
+	52.220.0.0/15     	2    Subdomain Name(s)
+
+	175.41.128.0/17   	1    Subdomain Name(s)
+
+	34.240.0.0/12     	1    Subdomain Name(s)
+
+	44.224.0.0/11     	1    Subdomain Name(s)
+
+	54.176.0.0/14     	1    Subdomain Name(s)
+
+	13.250.0.0/15     	2    Subdomain Name(s)
+
+
+
+The enumeration has finished
+
+Discoveries are being migrated into the local database
+
