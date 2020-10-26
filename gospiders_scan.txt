@@ -1,0 +1,1059 @@
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch-371ca77c3d19f71ba47b.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/eventemitter3-866a0914c237027f795c.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-MobileAutosuggestModal~common-components-UniversalSearch-c63e68d63d9c1439a9a2.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/deepmerge-96ab630cffffb1a87db9.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Header-4e469d6f7cffe283e5a3.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/eventemitter3-3b475bf7a8cdf98bcb0d.js
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe*q*upn=ZsGEWKf6JHPaiCrMUT0pX6RcxchPY09ZsxRG7vb8QOiPkt4ZnPwo0PiuEJg74IuMABXY8JLb3plSc4MKmEnP8KiTnEfTwaSkZ4wtb-2FLa1huQ5u9YMtj-2FueA5tw3l6j7ipznOunN2G3H5TfCLhPjGWfXG-2FNcQFySu0QHDHKb8u1x33NtR5d812qOdKbt3b0FXseVjx5-2FH4WAJUbbe2GjkdqXibF8eNUYnbXUacerBcBINhBjgFz0LZO7HYnSsz2WBDU3ATLVtox-2BGyBpdHKzi8WO96nwfgg5802B4wfJGIP4frFl5MKlw5x5mPGgWoyH59GrXqnyALdFdpBIajEzSNuzZZh0YpHBMxzjSUPesD1jbHS0NcrUnMSeEsekYgSLN
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-H1Wrapper-37ebe39aa759c7a9a511.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/deepmerge-7f7358d9056b8b45772d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/deepmerge-df156ec221da9771471f.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/cuid-a1f565514417baa59277.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/eventemitter3-a0d5d8230433fd3c43a0.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-99b11f565566d72b97bd.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/deepmerge-6a94a2b4ee00cad8a092.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop~layoutEntries-orderMobile~pages-CDNG~pages-Restaurant-75a44a93e83352c2b723.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-bd6ae4a95872a033e1ca.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-MenuViewer-MenuViewer-1b33274715c998961849.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-StatusText-dfdc5fd05004d5cec0a8.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-HeaderWrapper-29053d149332bb54cef2.js
+
+[subdomains] - www.zomato.com
+
+[subdomains] - accounts.zomato.com
+
+[subdomains] - upload.zomato.com
+
+[subdomains] - developers.zomato.com
+
+[subdomains] - engineering.zomato.com
+
+[subdomains] - culture.zomato.com
+
+[subdomains] - community.zomato.com
+
+[subdomains] - business-blog.zomato.com
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Header-e2b21eb7b3824f7b6b8d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/eventemitter3-8e2e4d00aaadf6f1596d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-CuisineWrapper-c5df74531b035d0d93a0.js
+
+[url] - [code-400] - http://trackemail.zomato.com:80/wf/click?
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-TooltipWrapper-2877903b821864302edf.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-61e593a1c7779ae27b7d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-f55caf2cbccaf526ef68.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Locality-b27713b8abd601970a1c.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-OpeningInfo-945c1db83319c4d07f74.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-052a12e16f2cfc1783b7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-a1ef586cd8451032828d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-HeadDetails-9c393a2d897a993ea2c6.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-e83c7cfc91d3a2ad9305.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-H1Wrapper-bad9a38ed6ab5bc5b5dd.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Header-bdd12e5b012f645c287d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Locality-44a404327065e2bab7a4.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Locality-2b4071379967109d801a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-34cc961943d0f07e584c.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-HeaderWrapper-37f1481aaf175419b2d5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-InfoLineWrapper-74a99e94370f22f7dab3.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/loadable-8e9ca11e503aa14f9249.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-OpeningInfo-c6963fe8de3716bb8954.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-StatusText-057453113873c108e68a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-HeaderStr-7bccc47811450d34409a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Timing-e9e36506d3c29d3875db.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Subtitle-6eed13fee00d042e105a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Timing-f3ef69b082b4ca748b00.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=pl
+
+[javascript] - https://apis.google.com/js/platform.js?onload=onGoogleAPILoaded
+
+[javascript] - https://www.google-analytics.com/analytics.js
+
+[javascript] - https://www.google-analytics.com/cx/api.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-pl/h-10d697c23e97690cdb8e59cd4f00e409/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-ceda61e9f95446b73f34.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-232840b027256bf7e395.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-c81da1abc1c801e0e8cf.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-8ac6a9e4af5a2f25bb3d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-77513f284c4cb990f9a3.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-1e8aa3aad7e3faae03aa.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-a54e16810e6687b0785f.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=it
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-e06f3d0573ffebf4cb47.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-85e8b9b66eda019e480d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/desktop-Timing-996a364a5b1cb887d06a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch~components-BewareNavbar~components-NavbarTwo~layoutEntries-resNavD~cf801c51-0ac9c0b5f247c36508de.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-cb1cbd221498cd30c8c5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-f8eb18a2edae17620513.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-ee51c6d517186ffacde4.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-9735eb08ef5148b540a4.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=vi
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-ca02fdc6d330c958e006.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-vi/h-6b8fc2043b7469d928c8e94a1e29a33b/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-da8bd643544d8559a010.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-aec528df9c951c313fd0.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/eventemitter3-4ae8adfcdb4615be8dda.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-925539e89c119b49ce45.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-98d82d14d681556645d7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-9d46fdf621e7d407c291.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-8f68175a94c1882f3899.js
+
+[url] - [code-200] - https://developers.zomato.com/api
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-en/h-90a5b45fc2133ccdfc69d5dd1d01c98d/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[javascript] - https://www.zomato.com/javascript/marked.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-it/h-8014742e41944e858d7454cf4029c2df/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=hi
+
+[url] - [code-200] - https://developers.zomato.com/documentation
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-hi/h-5777d26741d2e02e8a8be5ef8e577812/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/Footers-5b48615d63716fd08990.js
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=por
+
+[url] - [code-200] - https://developers.zomato.com/?lang=pl
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=sk
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=hi
+
+[url] - [code-200] - https://developers.zomato.com/?lang=cs
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-hi/h-e30bb524b2916624044634aa54e5513d/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[url] - [code-200] - https://developers.zomato.com/?lang=vi
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-2203ffcea1029c26c3f9.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-16a2add3166e7f032df2.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-d7acb5a1909c915140fc.js
+
+[url] - [code-400] - http://trackemail2.zomato.com:80/asm/unsubscribe/
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-5a2c4dbc5b1b791c74cc.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-ed66e905324cbac59064.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-4cb81859b2195c7c21af.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-a0384bf195ef03ac1ad1.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-0b2818a10a67b336ccb0.js
+
+[url] - [code-400] - http://trackemail2.zomato.com:80/asm/
+
+[url] - [code-200] - https://developers.zomato.com/?lang=hi
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=pt
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-7519343b961da8a1fb86.js
+
+[url] - [code-200] - https://developers.zomato.com/?lang=id
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-ba5d6aabf567d059711c.js
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=pl
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe*q*upn=2Yx3PJa-2FQkvFExJWTKKwosL-2F2hF5XdWfxF0Ry-2B7SJInMSqEj73aC40WpdTnRrow3vHpvfyqaC26tV87Sp7aUglcwkXHhQGzLyDby1aad-2FAe33SYB8QORN8in46Y5hBTvgaB15X9AfcByNQhApftD-2FkxqvLGgtaeYNA9rDIxPaF8I9xai89I8fuzIlNQxtGyN89bTuVgs4h4shGP-2BLGRX4OzliEfVoLqqFDuf6URLi6WuFZqglZyxslvtE7g0oduFHtTpgTykwSKaFSNImn6lvaN0a8dpQgXwA1qLjAig1BjX2j821GoSwyRB8q0oj8QE-2Bg7qM-2FF-2FmE6RKl-2FbDKAfxD8-2BLTVMdR3JQRB55n-2BXFftr9OMh8lgbV0FRLJ4ADxTC
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-5ddc4370b17f1e6de4db.js
+
+[url] - [code-200] - https://developers.zomato.com/?lang=tr
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=es_cl
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-3dc130f3d6853879cb61.js
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=pt
+
+[url] - [code-200] - https://zwstatic.zomato.com/emotion-72cb8fdc6d5362462f90.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=es_cl
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=cs
+
+[url] - [code-200] - https://developers.zomato.com/?lang=it
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-0464086aabcffd27aef5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-9e0b0366338225c7a901.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-55ae96db7b884878a95b.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-dfe55a419f7c19010bbc.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-34b79e8a3599f7eecded.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-cdbc05f3b1593338df53.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=cs
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop~layoutEntries-orderMobile~pages-Restaurant-b62b7e7cfd2c41b9b1cd.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-c22fa5039e0869b4d47b.js
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=it
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-0a34fdaf03fd2b856361.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/hoist-non-react-statics-8ab2d0b3a04a99449942.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=tr
+
+[url] - [code-200] - https://developers.zomato.com/
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-a45380b323db97a549c6.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-b7d166695f5a021b4d1c.js
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=tr
+
+[url] - [code-200] - https://zwstatic.zomato.com/runtime-0abfe9b0faaac50789ff.js
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe*q*upn=3MMWTirRkc64N-2F2R1BnlxfMORj87hvRkT5W-2FgUdKiNW7AU4DPeGlmixZUEtbf728yIyuS3pbrHiJ-2B7ExF-2FisTg-2BBDfOCZQEPS-2Fqg-2BYmeFx5y3EFoUwGbt3LQUg5VD8O-2BBk156lTTvesZ-2BeWN6tdPYaUh5asapojCiyik0YL2VBJpnnwzNQL0XuHUN1x6-2B4pnCUP-2BVFX8yN0ZkOIavbJGdyXSaTc-2FXrrhXC3kdFFD1-2B0FFcTcBbuTRY1WubNqvubs-2FLBS9491U5hO9Wo-2BKVcOJcb2HmxLaugGWiO5iN2jUGHySb8zCyLNy0lU3T6jvO4HE6ZlSfmwB2rGEV7oENUha16xDwKXlAnUo1ZJCRmd2AXqyKH-2Fu1mv7simaCdal-2Bs-2B
+
+[url] - [code-200] - https://zwstatic.zomato.com/rxjs-19c29054b2e3ee368c44.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-f72a0f3723835d00b7c7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-143d8dc4ccaaa21b7ffe.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-37f83f04a333e57cd896.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-76917af0f40145a55a0b.js
+
+[subdomains] - jumbo.zomato.com
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-42f4b9f91d1c2dcf10a3.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-eeb0899866a279cc0c8c.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-1631526bddeb076689b9.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-60676403b3fa46a2ac34.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-5ea2a050a9939019698e.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-3978987bcf8a6dc703df.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-a2329826ea395e149235.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-bec88f72527de458e25b.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/immutability-helper-2ad87d15732e504f90fd.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-9be34fd85ae4eb7c77ef.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-01c6a98f7db48e373f22.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-052a37b35dc8c2512947.js
+
+[url] - [code-200] - https://developers.zomato.com/contact
+
+[url] - [code-200] - https://developers.zomato.com/?lang=por
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=pt
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=cs
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-pt/h-8a4fc76c8e95862d7e2e75ffb3ea981a/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-id/h-7e37aec7204f19cb9266094bac3e719d/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/runtime-0a3e7422d1419da155a9.js
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=vi
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-vi/h-0f3b9617f3cdad6352648edae21b8115/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-1a10fb0205a141329635.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-46fb549a7a2fa632e961.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-180ff855334decfbcb6d.js
+
+[url] - [code-200] - https://developers.zomato.com/?lang=en
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-8435cf607c5add2544ff.js
+
+[url] - [code-200] - https://api.zomato.com/v1/location_popularity.json?lat=12.9274529&lon=77.590597&apikey=c0888f94600cc0c9d5b36f6eea167236
+
+[url] - [code-200] - https://zwstatic.zomato.com/invariant-70c978c17b505c782823.js
+
+[url] - [code-400] - http://trackemail2.zomato.com:80/wf/click
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=por
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-en/h-56cc216f6fa0df00269cc368d11f7df7/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-07a8c3e33596305caaa0.js
+
+[url] - [code-200] - https://developers.zomato.com/?lang=es
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-646d6c60f5e329ea1417.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-pl/h-31ed95fd7d613964401bcc4fb5fab214/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-4aee8188d66aa99388b7.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-pt/h-bc8a4c09842f2c6a7521dbe5be2a821a/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe*q*upn=AEA8HkHUydyAL-2BzBFOjUWllmHyyznc-2BTrpTKuBbqwarOfWylb0E2HWhXam1JaJSM6u2OvpTUpyjbVQDe7F82dXptG4bi3BM1YN0HHwFSMe4ZrO-2BgPAjVFXNzJd6IRH-2B9J-2BvUMTwj9KybAr-2F6Fg0zQ13nmrMsZJ7bERkGs4Zh-2B4fUCCEOV8IRtvrfAqBoR-2FkZnwfXPw5SZ76Qtbih4W9vP8cjUQPyC3HCi6mpfosUiUtt0GOdBpy9sZDZgjzQpdI2RkUv97bz5niaObcoIIrZzNfkZN5Jpj66RtJ87GqH9om1LddVCra7QDqb0Rz818T-2FFZ-2FqBZOnWmTtia8HxcvZAEdjiuXf2GUiyNmkLGUA9VcGVJpfSLL-2B-2Be50WubELCM1
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-a44b0609688583cb0f8b.js
+
+[url] - [code-200] - https://developers.zomato.com/documentation?lang=vi
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-bb3a2300cd24f63f75b9.js
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=en
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-6856674643abfa9d2f0f.js
+
+[url] - [code-200] - https://developers.zomato.com/widgets
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-b8c925ada58fce953fa3.js
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=es
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=por
+
+[url] - [code-200] - https://developers.zomato.com/?lang=pt
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-67d665fe33e7a80150c2.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=en
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-96231503ddf6ac7c6f71.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-5416cecf35635ff09109.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-b02f4534a876b303474d.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-cs/h-7c33ce8d44053bc20565edf1156caa5e/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch~common-components-UniversalSearch-components-LocationSearch~partne~11530d31-1910ee2198e05bc031e0.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-cs/h-0ae818970c4fc84ff4deb9d03887b6f9/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-4db14ba6dca5e8ca50bd.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-944ab43275a8384f6bea.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-d0c5ee0a2821ba568803.js
+
+[url] - [code-403] - https://jumbo.zomato.com/event
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-tr/h-6ff3501f05b784d5f339c7bba26ad1e0/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-es_cl/h-f67cc16c7b7cbc4e097f71633c0c6095/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-it/h-fde6bdd82e1628e273fc74768996937e/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-es_cl/h-25f9c64c47b2d0c51da6ea56ca26e391/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-tr/h-19025b001a9ceec777e42f49e0add994/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[url] - [code-200] - https://developers.zomato.com/?lang=sk
+
+[url] - [code-200] - https://developers.zomato.com/api?lang=sk
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=tr
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-29a6c80c16a4326f2c87.js
+
+[url] - [code-200] - https://developers.zomato.com/
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=vi
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=es_cl
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-BookingDetails-BookingDetails-82a27dd624964ed41768.js
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=it
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch-7da33d350931f41f31d4.js
+
+[url] - [code-200] - https://developers.zomato.com/documentation?lang=it
+
+[url] - [code-200] - https://zwstatic.zomato.com/is-what-4d9051ef47de8b2236e6.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-0b8f05c0e0ef1ecb1a31.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/jumbo-client-js-0765f07fed1ad6fbe2e9.js
+
+[url] - [code-200] - https://developers.zomato.com/documentation?lang=hi
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-sk/h-8073dd18eb0dc9493de6e5bf45e3edde/fh-e7f8dbb5f68b7d510fefe4d3aab46267.js
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=sk
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-9cee3c8a3bb1f00fd8e9.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-505aacc09784848fe4f2.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-54a78795f6fb61bd0843.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop~layoutEntries-orderMobile~pages-CDNG~pages-Restaurant-4ac47a1b69d530173dee.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-2ef4ade51308dc6fa715.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-66e38a27a237f040e333.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-053d2bb8e3f86f91e7ce.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-2784dce735e884bfc17d.js
+
+[javascript] - https://static.zmtcdn.com/genjs/v3/t-f0c0193d57a01b25bb3b34b3d01782c2/l-H4sIAAAAAAAAAytOLS7OzM_Ty83M08sqBgCsMcoLDgAAAA/cl-sk/h-41a1d5d9c575063050fb979eb1f8a462/fh-fc56343a1e4581eb448a4c3c649109eb.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/google-map-react-b95eb9c9c9e6d2fcf20e.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-d9f7b9598cd7bdf5acb4.js
+
+[url] - [code-200] - https://developers.zomato.com/widgets?lang=pl
+
+[url] - [code-200] - https://zwstatic.zomato.com/clipboard-copy-83631458773feefc9d71.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/clipboard-copy-b4b90b96a3d14b5117ee.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/clipboard-copy-39b2f06672352ca1b380.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/clipboard-copy-435f3028da15f83de505.js
+
+[url] - [code-200] - https://community.zomato.com/rss
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe*q*upn=AovdjztbCjpWh3SZEE0krNfSVEB5CiWwVu-2FXX2HJpZ-2BRME5ILIThIh-2FB5ewDz3tpRISEg0iZeeTO3ae514-2FV4rRdUZqRxUmOxeRYkrvljyjRMjWF-2FQbX13X-2BaOGbT0Joyumu4Qaaexq-2Flm9JHqzgQe3Ckx9pU04qOkWkZl5-2BUP25lL6IUWFigeqHa-2F-2FtrUJk3BsCZHCw2t6BIMvKsIU6OXx7McRmQJSk38VLp4eoppbk6g2R5lq5U6IAwhI6cn-2F2OigRkT0Gc-2BlbpXJoQZrObB-2FCzqhGzvtfzupj5Ia0Uq379hcl0F2WsG5YFcJ-2BTla8PfDUgBsSGVrVV-2B2wImTQXPWxfY-2B4vEpimNySs1R7QwhUDd86DmrF3M-2BZTOEbk4MG84xnPuHy7TuB0tLoR-2FxapQ-3D-3D
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop~layoutEntries-orderMobile~pages-CDNG~pages-Restaurant-5220185b4172fdb6ce00.js
+
+[url] - [code-200] - https://developers.zomato.com/contact?lang=es
+
+[url] - [code-200] - https://zwstatic.zomato.com/clipboard-copy-0aecce20a1b7f8ed0bd7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/deepmerge-645c18a06de7234eac44.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-MenuViewer-MenuViewer-4ffd65ad00cf9020b767.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-MenuViewer-MenuViewer-a40e737841028e37bff5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/clipboard-copy-ea3dea7e6f9b59e4d835.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-MenuViewer-MenuViewer-8102b7c1883cad16e57d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-MenuViewer-MenuViewer-8f9d1594642ea56d4a05.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop~layoutEntries-orderMobile~pages-CDNG~pages-Restaurant-0c13081d7020ce83335f.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant~pages-Contests~pages-PostOrder~screens-PostOrder~screens-Summary~scr~1f0a672a-1d89a47694849238c798.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-5217a3256133fcdc85f2.js
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe*q*upn=IUflwBo2JQDHUihyDSnJr5qL4oZ-2FrJL1bH72MBv-2BzzlXzDIIFJQGPVLYWEP-2FZFG2mutszgIUtRsQHkrjA1Kxwj2HUrh2fbZB06O4VVovBRLleQO4OiwIj2NQrl-2FTHGLMwKHWJYt-2BJTe95fS9iGggJ53-2BTeZT3YV2F9S4GvtHNtLeqWkofox-2Fz-2FCDocPpWCFzqUpJkYAdwEstaI-2BqQ0sWW8ajZkeEA-2BpegkwrjNR2Q3BzWvOgkkrg5V-2FgKTj-2BSOZuy5bCvS3rOADO-2F3jTr3LGeiPkO0OBCAm10UxDqK6zAhQ-3D
+
+[url] - [code-200] - https://zwstatic.zomato.com/babel-0987b1788823c49eb4d6.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-103878868719accc64cf.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-54e9dcdc7f936b8f5675.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-70fa48fce6693855999a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-34e418af549da4519f63.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-99c7acf428ae3d5db97b.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Order~components-OrderWrapper~pages-Jobs-AllJobs-9b616fbd146afb2c709c.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch~components-BewareNavbar~components-NavbarTwo~layoutEntries-resNavD~cf801c51-30b3f3b75cade9dbb210.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch~partnership-pages-Init-8157b2f6c709b251f414.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Order-bbd01f09630b406a65e9.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-017d5163eff86e93496c.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Review~subpages-Events~subpages-Gallery~subpages-Menu~su~4cc7f069-401f859ccc47593f1c15.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-MobileAutosuggestModal~common-components-UniversalSearch-ceda3e72220c09fc7f90.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch-206a4dec6b2b42758b57.js
+
+[url] - [code-200] - https://community.zomato.com/post/155715036223/before-mcdosa-takes-over#_=_
+
+[form] - https://community.zomato.com/post/155715036223/before-mcdosa-takes-over#_=_
+
+[javascript] - https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98
+
+[javascript] - http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+
+[javascript] - https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd
+
+[javascript] - https://static.tumblr.com/xc2kkma/rEKo8ph04/jquery-1.11.0.min.js
+
+[javascript] - https://static.tumblr.com/xc2kkma/EUBo8pg28/libs.min.js
+
+[javascript] - https://static.tumblr.com/7v4ocid/bbDn4j77g/theme.min.js
+
+[javascript] - https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=de04ebc7a4a63db35081cfb75e016ba6
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Review~layoutEntries-ResHeaderDesktop~layoutEntries-resD~9bb3b7ea-ee51b157c75662807742.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-PaymentsNavbar~pages-CDNG~pages-Restaurant-05846312f278f980a967.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-PaymentsNavbar~pages-CDNG~pages-Restaurant-49146827c28ad545c3bf.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-OrderWrapper-05e08c91e28f628cfc02.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant~pages-Contests~pages-PostOrder~screens-TableView~screens-Transaction~cb0a85a6-1d89a47694849238c798.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-OrderWrapper-a9695a9358a9547cdae6.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant~screens-Summary~screens-TransactionStatus-eb0d3938a256adb325d1.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo-2de01be1e4120cb0e565.js
+
+[url] - [code-200] - http://trackemail.zomato.com:80/wf/unsubscribe*q*upn=ygwwA42KyyNL7rOn5uBd9Nm06vVm1wqEQgV0ToduApxZC1vHwR4gm084Ri-2BOWqdxBSfLXeT5n80AirbgOhF2AYJogn1-2BXVEuC0PQIAxBUAXKef-2BBHVheClIqUXkYC-2BMP66xaYFe5GZ5bzhd5Jz927wXiyRZ4rKA-2Bp-2Foeakq1dpSo7tu4UbiSPWU7fiMKeB3JpZfxD5OlABedxDGZPIsY3Ri8d2qOU29UyPZmrvvO98OI4Xys-2Bie63j-2BcnQg7y824TRNkE-2Bu1NpV86W6FE-2FgN0Qp11fvZtbrt-2FDD-2Fa02o-2BQ5d5GqHbVC6yqUI2vzjqEdvrWjL-2FE-2F0DSil6SgHk-2FPovEL4i0p8Cz-2By7yNK-2BxnWIDyfiWlWkWsUsKujDwkwkTI8
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-OrderWrapper-b4a8f5800528c0a47ffd.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-OrderWrapper-22f57151a67c85c1ced2.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-75c49610c1e1e33bb7d7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Visited-09ef967a51b9cb4a5116.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-b9f19e4cb6beb11412ff.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/common-components-UniversalSearch~components-BewareNavbar~components-NavbarTwo~layoutEntries-resNavD~cf801c51-f88d53fb9fc888f5110d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Review~components-Visited-0a64f516b0e2134ac383.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Review~components-Visited-dfa07cd7d8a8af508be4.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-OrderWrapper-716cec8bef7e84a6cf63.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Order~components-OrderWrapper~pages-Jobs-AllJobs-8bcb4205d04e8dd49ba6.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Review~components-Visited-de248da686ef84104ca1.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~subpages-Events~subpages-Menu~subpages-Photos-5aa4af744b21a6d41aa6.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Order-54ca07d3b235e669a425.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~subpages-Followers~subpages-Ordering~subpages-Photos-6dfcbb5a527cb0c7128e.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Review~components-Visited-8eb1bf58422e93538b91.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant~pages-Contests~screens-PostOrder~screens-Summary~screens-TableView~s~04caa4c9-19fcb155a539807464f7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Order-73b1973a292b84d4c67a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~subpages-Followers~subpages-Ordering~subpages-Photos-2ac3da2bca4fb2c5d1b9.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-735db6f530ca1adf6f0a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant~pages-Contests~screens-PostOrder~screens-Summary~screens-TableView~s~8ca184ae-3a0da03280167f0bc66f.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Order-e659db719a18fff6ff1d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo-8ea3692ea33d1b892382.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-02abd9e72d7680a22bfb.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Rate-5366c37a9cae1f1d1ef7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-a862dd7eb257dbe2f696.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~components-Rate~components-Visited-c954f204c422bcd172d4.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-2184ca0c31b06fabd6b9.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo-1ee0658f9de773bf60d4.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar-3c13ac10ff81eecae602.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~subpages-Photos-7efd59f0ebe19770a0f2.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Rate-d99a7de13060acb214c4.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-77ac5fedbab417068b38.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Rate-a0826d03a61e307786ef.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-6c83605468dbbe2d462b.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar-25b01ace25a13c24d545.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-dfa2565085dbe476717e.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop-450bf28b17f43b6b9c09.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-6eca6f3db34b9182003f.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar-10098f6626a347b8c10f.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar-768d53193a62f85ff096.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar~pages-COVID~pages-Contests~pages-Country~pages-Restaurant~pages-Search~p~8d53cd30-3dd6c4cd814e28811b40.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar~pages-COVID~pages-Contests~pages-Country~pages-PostBook~pages-PostOrder~~6b1346ec-a3f4a1e7045bc1769374.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar-20cceba195d3fcfd49c1.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-RestaurantNavbar~pages-COVID~pages-Country~pages-Restaurant~pages-Search~pages-User-b48160c40e2e256b52c5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Review-52662817613614b968ca.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/cuid-10033a7cffd65fcc7cab.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-1468c80e521474145c9e.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop-04eb92f9c71f19072e5f.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-122d6aa264659fa31bc0.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Rate~layoutEntries-ResHeaderDesktop-a83ec42c76eb63aeec72.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-c70e6c5ed627f648d63d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo~subpages-Photos-620c8306c33ffbb8a67d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop-0c7edeb7bde0c8889ad7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Photo-64b506ee699d28ccfe7d.js
+
+[url] - [code-200] - https://community.zomato.com/post/146881919898/monsoon-alert-hilsa#_=_
+
+[form] - https://community.zomato.com/post/146881919898/monsoon-alert-hilsa#_=_
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-FullPageAdRestaurant-e2fd014e9aa17d54d635.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-efc09106001e0c11d517.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-ec161863174cbcaa7f64.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-9b041caded2e3e0b2d45.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop-ba501dca48079886b911.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Rate-0afcdb59807a7558fba5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-8daed5dd1387cc5cc913.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-9ca4f6c2ad6210336481.js
+
+[linkfinder] - http://twitter.com/{{twitter_username}}/status/{{id_str}}
+
+[linkfinder] - https://www.zomato.com/text/javascript
+
+[linkfinder] - https://api.instagram.com/v1/users/self/media/recent?callback=recent_photos&count=12&access_token=
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-Rate-3e4c25a970739891f264.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-53339f4a6d775cd0bb2b.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-3fc7b53f2ec22f63dbd5.js
+
+[url] - [code-200] - https://community.zomato.com/post/147335723158/pitter-patter-tea-drops#_=_
+
+[form] - https://community.zomato.com/post/147335723158/pitter-patter-tea-drops#_=_
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-9be7dc9e5aea28fd4ffc.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-c41fb8afb156365de6e1.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/components-NavbarTwo-270597158cd2dc4e506c.js
+
+[linkfinder] - https://www.zomato.com/analytics.html
+
+[linkfinder] - https://www.zomato.com/page/:page
+
+[linkfinder] - https://www.zomato.com/api/read/json
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-4c492d30edb85e7c4e7d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-cefad7104498c2f79586.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-47562a2cb3d685c60a67.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-ea17bb298f57659b6a14.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-7ba1598e4d6e4f2398bb.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-ea8ea6a70ef3a18770b1.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopContainer-3ba3d01fb56f70b9f113.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-38e76d0d4dd0332fbf6a.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-9230e197cf574aee5adb.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-orderDesktop-5d946f6ecde7f5895b66.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-c2738318a6f4eac31b08.js
+
+[linkfinder] - https://www.zomato.com/text/xml
+
+[linkfinder] - https://www.zomato.com/text/plain
+
+[linkfinder] - https://www.zomato.com/text/html
+
+[linkfinder] - https://www.zomato.com/application/x-www-form-urlencoded
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-96b34074f49c22a8a5f5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-83af2a7fa39435d1bd0e.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-5748ae3987e65dca6b52.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-d68635402cb3b90fe864.js
+
+[linkfinder] - https://www.zomato.com/text/xml
+
+[linkfinder] - https://www.zomato.com/text/plain
+
+[linkfinder] - https://www.zomato.com/text/html
+
+[linkfinder] - https://www.zomato.com/application/x-www-form-urlencoded
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-16bc455d4432a91ee804.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-515dfdeef1e2730d514d.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-5ed2d482c463f326ff20.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-07b32421451a37ca5306.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-aboutDesktopIndex-42fb1aae9dce5df426b3.js
+
+[linkfinder] - https://www.zomato.com/text/css
+
+[linkfinder] - https://www.youtube.com/embed/%id%?autoplay=1
+
+[linkfinder] - https://player.vimeo.com/video/%id%?autoplay=1
+
+[linkfinder] - https://maps.google.
+
+[linkfinder] - https://twitter.com/#!/search?q=%23
+
+[linkfinder] - https://twitter.com/#!/search?q=%24
+
+[linkfinder] - https://twitter.com/
+
+[linkfinder] - https://www.zomato.com/lang/
+
+[linkfinder] - https://www.zomato.com/mm/dd/yyyy
+
+[linkfinder] - https://www.zomato.com/text/xml
+
+[linkfinder] - https://www.zomato.com/text/plain
+
+[linkfinder] - https://www.zomato.com/text/html
+
+[linkfinder] - https://www.zomato.com/application/x-www-form-urlencoded
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-91b6cb20d1b5a9007a18.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-fadc9802c08ecd6e1de5.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-19dfd4bfdd68bea3e145.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-4cd4b87b6139c9019870.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-12585c23bb2a872478d7.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-6842fefc476e6effea20.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-d0d64bc685d5809ac856.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-6254820bd575371e26ec.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-dabefedac8d10930f524.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-9ef3ce9c46f5d1c77956.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-b7b258abb41d107d77cc.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-0f6f16b8aa8703e4b752.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-8be93077f82372795b99.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-ca5db15bbc64a5ec9368.js
+
+[url] - [code-200] - https://zwstatic.zomato.com/layoutEntries-desktopIndex-4ed8bcbeecb85a90b21e.js
+
+[linkfinder] - https://www.zomato.com/application/json
+
+[linkfinder] - https://www.zomato.com/application/x-www-form-urlencoded
+
+[linkfinder] - https://www.zomato.com/text/xml
+
+[linkfinder] - https://www.zomato.com/text/plain
+
+[linkfinder] - https://www.zomato.com/text/html
+
+[linkfinder] - https://www.zomato.com/components/tumblelogiframe
+
+[linkfinder] - https://www.zomato.com/bootstrap/domeventor
+
+[linkfinder] - https://s.yimg.com/av/gemini/ga/gemini.js
+
+[linkfinder] - https://www.zomato.com/bootstrap/flags
+
+[linkfinder] - https://www.zomato.com/bootstrap/data
+
+[linkfinder] - https://www.zomato.com/bootstrap/translations
+
+[linkfinder] - https://www.zomato.com/components/supplylogging
+
+[linkfinder] - https://www.zomato.com/assets/scripts/tumblr/dashboard/showads.js
+
+[linkfinder] - https://pixel.wp.com/g.gif
+
+[linkfinder] - https://www.zomato.com/text/css
+
+[linkfinder] - https://www.zomato.com/context/name
+
+[linkfinder] - https://www.zomato.com/components/post
+
+[linkfinder] - https://www.zomato.com/components/tumblelogiframe/tumbleloghost
+
+[linkfinder] - https://www.tumblr.com
+
+[linkfinder] - http://www.w3.org/2000/svg
+
+[linkfinder] - http://www.w3.org/1999/xlink
+
+[linkfinder] - https://assets.tumblr.com/fonts/tumblr-icons/tumblr-icons_e24c07a0f2ea4f19997f508adc0110e4.eot?v=0539fef132e181d31898a023769fdd33#iefix
+
+[linkfinder] - https://assets.tumblr.com/fonts/tumblr-icons/tumblr-icons_e24c07a0f2ea4f19997f508adc0110e4.woff2?v=ace24d0e0ad76b7fa49a172b4272c348
+
+[linkfinder] - https://assets.tumblr.com/fonts/tumblr-icons/tumblr-icons_e24c07a0f2ea4f19997f508adc0110e4.woff?v=a9e364ea5c63072508036529a5db954d
+
+[linkfinder] - https://assets.tumblr.com/fonts/tumblr-icons/tumblr-icons_e24c07a0f2ea4f19997f508adc0110e4.ttf?v=05d2c2e904392d15a081f147a73a3a68
+
+[linkfinder] - https://assets.tumblr.com/fonts/tumblr-icons/tumblr-icons_e24c07a0f2ea4f19997f508adc0110e4.svg?v=5f5fe4a3fe72fbef43a8c0dcb02af888#tumblr-icons
+
+[linkfinder] - https://assets.tumblr.com/images/iframe_sprite.png?v=56917f7168073fba0d83dcb8d895ce06
+
+[linkfinder] - https://assets.tumblr.com/images/iframe_sprite@2x.png?v=14fb4ccb8201f2c62226cdfa1bd3052a
+
+[linkfinder] - https://assets.tumblr.com/images/iframe_logo.png?v=f7224a52378c012edb6c80b4dfd9c9ca
+
+[linkfinder] - https://assets.tumblr.com/images/iframe_logo@2x.png?v=d24a626f4a88bfd27f1c50c9044ae154
+
+[linkfinder] - https://www.zomato.com/context/hosts
+
+[linkfinder] - https://www.zomato.com/context/hosts/secure_www_host
+
+[linkfinder] - https://www.zomato.com/dashboard
+
+[linkfinder] - https://www.zomato.com/customize/
+
+[linkfinder] - https://www.zomato.com/?redirect_to=
+
+[linkfinder] - https://www.zomato.com/send/
+
+[linkfinder] - https://www.zomato.com/message/
+
+[linkfinder] - https://www.zomato.com/edit/
+
+[linkfinder] - https://www.zomato.com/embed
+
+[linkfinder] - https://www.zomato.com/settings/blog/
+
+[linkfinder] - https://www.zomato.com/search/
+
+[linkfinder] - https://www.tumblr.com/dashboard
+
+[linkfinder] - https://www.zomato.com/svc/follow
+
+[linkfinder] - https://www.zomato.com/svc/unfollow
+
+[linkfinder] - https://www.zomato.com/svc/data/tumblelog
+
+[linkfinder] - https://www.zomato.com/svc/tumblelog_popover/
+
+[linkfinder] - https://www.zomato.com/svc/
+
+[linkfinder] - https://www.zomato.com/posts/highlighted
+
+[linkfinder] - https://www.zomato.com/spam/toggle
+
+[linkfinder] - https://www.zomato.com/nsfw/toggle
+
+[linkfinder] - https://www.zomato.com/adult/toggle
+
+[linkfinder] - https://www.zomato.com/uniblock/toggle
+
+[linkfinder] - https://www.zomato.com/suspended/toggle
+
+[linkfinder] - https://www.zomato.com/svc/blog/
+
+[linkfinder] - https://www.zomato.com/subscription
+
+[linkfinder] - https://www.zomato.com/settings/save
+
+[linkfinder] - https://www.zomato.com/context/userinfo
+
+[linkfinder] - https://www.zomato.com/svc/block/add
+
+[linkfinder] - https://www.zomato.com/svc/block/remove
+
+[linkfinder] - https://www.zomato.com/svc/like
+
+[linkfinder] - https://www.zomato.com/svc/unlike
+
+[linkfinder] - https://www.zomato.com/fast_reblog
+
+[linkfinder] - https://www.zomato.com/svc/reply
+
+[linkfinder] - https://www.zomato.com/publish
+
+[linkfinder] - https://www.zomato.com/svc/post/delete
+
+[linkfinder] - https://www.zomato.com/svc/promote
+
+[linkfinder] - https://www.zomato.com/svc/unpromote
+
+[linkfinder] - https://www.zomato.com/answer
+
+[linkfinder] - https://www.zomato.com/deny_submission
+
+[linkfinder] - https://www.zomato.com/approve_submission
+
+[linkfinder] - https://www.zomato.com/svc/blog/:tumblelog/posts/:post_id/subscription
+
+[linkfinder] - https://embed.tumblr.com
+
+[linkfinder] - https://assets.tumblr.com
+
+[linkfinder] - https://www.zomato.com/embed/post/
+
+[linkfinder] - https://www.zomato.com/post.js
+
+[linkfinder] - https://www.zomato.com/dashboard/iframe?tumblelogname=
+
+[linkfinder] - https://assets.tumblr.com/images/default_avatar_40.png
+
+[linkfinder] - https://www.zomato.com/images/tumblr_android_icn.png
+
+[linkfinder] - https://assets.tumblr.com/images/tumblr_android_icn_2x.png?v=6af0d49c3b4b8bae4e15fe43ee5d602e
+
+[linkfinder] - https://www.zomato.com/images/tumblr_ios_icn.png
+
+[linkfinder] - https://assets.tumblr.com/images/tumblr_ios_icn_2x.png?v=5a9cd5161dfc24c4d9f4d28c00a8087b
+
+[linkfinder] - https://www.zomato.com/components/gdprbanner
+
+[linkfinder] - https://www.tumblr.com/privacy
+
+[linkfinder] - https://www.zomato.com/dashboard/iframe/consent
+
+[linkfinder] - https://tumblr.com
+
+[linkfinder] - https://www.zomato.com/context/language_simple
+
+[linkfinder] - https://www.zomato.com/docs/
+
+[linkfinder] - https://www.zomato.com/relevantads
+
+[linkfinder] - https://www.zomato.com/svc/like_state
+
+[linkfinder] - https://www.zomato.com/context/hosts/assets_host
+
+[linkfinder] - https://www.zomato.com/services/cslog
+
+[linkfinder] - https://www.zomato.com/context/time
+
+[linkfinder] - https://www.zomato.com/components/loglady
+
+[linkfinder] - https://www.zomato.com/context/hosts/secure_assets_host
+
+[linkfinder] - https://www.zomato.com/images/x.gif
+
+[linkfinder] - https://assets.tumblr.com/images/full_page_vignette.png\
+
+[linkfinder] - https://www.zomato.com/svc/secure_form_key
+
+[linkfinder] - https://www.zomato.com/?$
+
+[linkfinder] - https://www.zomato.com/svc/secure_form_key/exchange
