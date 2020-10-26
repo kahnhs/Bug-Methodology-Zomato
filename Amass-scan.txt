@@ -1,0 +1,136 @@
+Querying DNSDumpster for zomato.com subdomains
+Querying HackerTarget for zomato.com subdomains
+[DNS]             zomato.com 52.220.198.205
+
+[DNSDumpster]     success.zomato.com 192.0.78.165,192.0.78.248
+
+[DNSDumpster]     techblog.zomato.com 192.0.78.161,192.0.78.229
+
+[ArchiveIt]       community.zomato.com 74.114.154.22,74.114.154.18
+
+[DNSDumpster]     o1.email.zomato.com 167.89.2.174
+
+[Brute Forcing]   link.zomato.com 52.209.121.193,34.246.127.31
+
+Average DNS queries performed: 1160/sec, Average retries required: 39.40%
+Querying RapidDNS for zomato.com subdomains
+
+[DNSDumpster]     o4.sg1.zomato.com 167.89.48.38
+
+[DNSDumpster]     o10.mailers.zomato.com 167.89.48.38
+
+[DNSDumpster]     o7.mailers.zomato.com 167.89.47.105
+
+[DNSDumpster]     o8.mailers.zomato.com 167.89.56.190
+
+[DNSDumpster]     o11.et.zomato.com 198.21.4.214
+
+[DNSDumpster]     o9.mailers.zomato.com 167.89.56.210
+
+[DNSDumpster]     o6.mailers.zomato.com 167.89.19.126
+
+DNS wildcard detected: Resolver 8.8.4.4:53: *.techblog.zomato.com: type: 1
+DNS wildcard detected: Resolver 64.6.64.6:53: *.techblog.zomato.com: type: 1
+Querying Pastebin for zomato.com subdomains
+DNS wildcard detected: Resolver 64.6.65.6:53: *.techblog.zomato.com: type: 1
+DNS wildcard detected: Resolver 64.6.64.6:53: *.success.zomato.com: type: 1
+DNS wildcard detected: Resolver 64.6.65.6:53: *.success.zomato.com: type: 1
+DNS wildcard detected: Resolver 8.8.4.4:53: *.success.zomato.com: type: 1
+
+[RapidDNS]        trackemail2.zomato.com 167.89.115.56,167.89.115.120
+
+Average DNS queries performed: 1795/sec, Average retries required: 41.78%
+DNS wildcard detected: Resolver 77.88.8.1:53: *.techblog.zomato.com: type: 2
+Querying Censys for zomato.com subdomains
+
+[RapidDNS]        winecellar.zomato.com 23.15.14.90,23.15.14.162
+
+Querying BufferOver for zomato.com subdomains
+Querying Bing for zomato.com subdomains
+
+[Alterations]     trackemail.zomato.com 167.89.115.56,167.89.115.120
+
+Average DNS queries performed: 1770/sec, Average retries required: 42.32%
+Querying HackerOne for zomato.com subdomains
+Querying Crtsh for zomato.com subdomains
+
+[Alterations]     maps2.zomato.com 3.1.11.122,3.1.30.117,52.221.178.135,18.139.167.151,18.139.127.232,13.250.242.129
+
+[HackerOne]       book.zomato.com 44.234.197.193
+
+[Alterations]     apimail.zomato.com 167.89.115.56,167.89.115.120
+
+Average DNS queries performed: 1720/sec, Average retries required: 42.79%
+Querying Riddler for zomato.com subdomains
+Querying ThreatMiner for zomato.com subdomains
+Querying ViewDNS for zomato.com subdomains
+Querying ArchiveIt for zomato.com subdomains
+Querying Baidu for zomato.com subdomains
+Querying GoogleCT for zomato.com subdomains
+Querying AlienVault for zomato.com subdomains
+Querying Robtex for zomato.com subdomains
+Average DNS queries performed: 1737/sec, Average retries required: 43.64%
+Querying Brute Forcing for zomato.com subdomains
+Querying Mnemonic for zomato.com subdomains
+Querying BuiltWith for zomato.com subdomains
+Querying ThreatCrowd for zomato.com subdomains
+Querying URLScan for zomato.com subdomains
+DNS wildcard detected: Resolver 77.88.8.1:53: *.success.zomato.com: type: 2
+Querying VirusTotal for zomato.com subdomains
+Querying CommonCrawl for zomato.com subdomains
+Querying Yahoo for zomato.com subdomains
+Average DNS queries performed: 1654/sec, Average retries required: 42.87%
+Querying CertSpotter for zomato.com subdomains
+Querying SiteDossier for zomato.com subdomains
+Querying Ask for zomato.com subdomains
+Querying Wayback for zomato.com subdomains
+DNS wildcard detected: Resolver 1.0.0.1:53: *.baton-rouge-website-design-companies.www.techblog.zomato.com: type: 2
+DNS wildcard detected: Resolver 1.1.1.1:53: *.baton-rouge-website-design-companies.www.techblog.zomato.com: type: 2
+DNS wildcard detected: Resolver 8.8.8.8:53: *.baton-rouge-website-design-companies.www.techblog.zomato.com: type: 2
+Querying UKGovArchive for zomato.com subdomains
+Querying Sublist3rAPI for zomato.com subdomains
+Average DNS queries performed: 1251/sec, Average retries required: 33.17%
+
+[Alterations]     payments-staffclient.zomato.com 192.0.78.161,192.0.78.229
+
+[Crtsh]           www.techblog.zomato.com 192.0.78.229,192.0.78.161
+
+[Alterations]     payments-staff.zomato.com 192.0.78.161,192.0.78.229
+
+Average DNS queries performed: 766/sec, Average retries required: 8.22%
+
+[ArchiveIt]       jumbo.zomato.com 3.0.199.188,52.220.83.180,52.74.84.72,13.250.171.216,52.74.66.27
+
+[VirusTotal]      fddkim.zomato.com 52.204.103.178
+
+[Alterations]     trial-staff.zomato.com 192.0.78.161,192.0.78.229
+
+[CertSpotter]     www.success.zomato.com 192.0.78.248,192.0.78.165
+
+Average DNS queries performed: 119/sec, Average retries required: 3.36%
+OWASP Amass v3.10.5                               https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+26 names discovered - archive: 2, brute: 1, alt: 6, cert: 2, api: 1, dns: 1, scrape: 13
+--------------------------------------------------------------------------------
+ASN: 20940 - AKAMAI-ASN1
+	23.15.14.0/23     	2    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc.
+	52.200.0.0/13     	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc.
+	52.220.0.0/15     	3    Subdomain Name(s)
+	52.208.0.0/13     	1    Subdomain Name(s)
+	34.240.0.0/12     	1    Subdomain Name(s)
+	3.0.0.0/15        	3    Subdomain Name(s)
+	18.138.0.0/15     	2    Subdomain Name(s)
+	13.250.0.0/15     	2    Subdomain Name(s)
+	44.224.0.0/11     	1    Subdomain Name(s)
+	52.74.0.0/15      	2    Subdomain Name(s)
+ASN: 2635 - AUTOMATTIC - Automattic, Inc
+	74.114.152.0/22   	2    Subdomain Name(s)
+	192.0.64.0/18     	14   Subdomain Name(s)
+ASN: 11377 - SENDGRID - SendGrid, Inc.
+	167.89.114.0/23   	6    Subdomain Name(s)
+	167.89.0.0/18     	7    Subdomain Name(s)
+	198.21.0.0/21     	1    Subdomain Name(s)
+The enumeration has finished
+Discoveries are being migrated into the local database
